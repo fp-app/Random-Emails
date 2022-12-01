@@ -1,7 +1,7 @@
 # Random Emails
 Modest Javascript to create a bunch of random trash emails for testing.
 
-![](/Users/flowplace/Documents/Random-Emails/screenshot.png)
+![](screenshot.png)
 
 ## How-to
 1. Download the html file
